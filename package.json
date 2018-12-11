@@ -1,11 +1,15 @@
 {
-  "name": "rand_node",
-  "version": "0.0.1",
-  "description": "some functions for random",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "jyq",
-  "license": "ISC"
+    "name": "rand_node",
+    "version": "0.0.1",
+    "description": "some functions for random",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:fengzhibushang1101/rand_node.git"
+    },
+    "author": "jyq",
+    "license": "ISC"
 }
