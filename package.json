@@ -1,5 +1,5 @@
 {
-  "name": "node_rand",
+  "name": "rand_node",
   "version": "0.0.1",
   "description": "some functions for random",
   "main": "index.js",
