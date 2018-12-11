@@ -1,0 +1,11 @@
+{
+  "name": "node_rand",
+  "version": "0.0.1",
+  "description": "some functions for random",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jyq",
+  "license": "ISC"
+}
